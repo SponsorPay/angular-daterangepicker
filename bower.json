@@ -21,7 +21,7 @@
   "dependencies": {
     "angular": "^1.2.17",
     "bootstrap": "^3.0.0",
-    "bootstrap-daterangepicker": "git://github.com/kobiburnley/bootstrap-daterangepicker.git#^2.1.25"
+    "bootstrap-daterangepicker": "https://github.com/kobiburnley/bootstrap-daterangepicker.git#^2.1.25"
   },
   "devDependencies": {
     "angular-messages": "^1.2.17"
